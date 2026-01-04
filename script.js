@@ -27,7 +27,7 @@ function calcularRuta() {
     document.getElementById("ocupacion").innerText = ocupacion + "%";
     document.getElementById("recomendacion").innerText = recomendacion;
 
-    document.getElementById("resultados").style.display = "block";
+    document.getElementById("resultados").style.display = "flex";
 }
 
 // MODAL
