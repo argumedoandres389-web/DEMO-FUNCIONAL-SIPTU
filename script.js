@@ -1,3 +1,5 @@
+alert("JS cargado correctamente");
+
 function calcularRuta() {
 
     const origen = document.getElementById("origen").value.trim();
